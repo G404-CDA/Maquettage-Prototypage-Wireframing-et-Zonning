@@ -18,7 +18,7 @@ Au cours de ce module, nous explorerons chacune de ces étapes en détail. Vous 
 
 Préparez-vous à plonger au cœur de la conception UI/UX pour transformer vos idées en réalités distinguées! 🚀🌟
 
-## Cours
+# Cours
 
 [**UX/UI**](https://docs.google.com/presentation/d/1255QV6W_4EX7wKBVC0bp-LuSERirLvaOlJ-5i-BG0Zc/edit#slide=id.g15d3f45036f_0_267)
 
@@ -27,13 +27,13 @@ Préparez-vous à plonger au cœur de la conception UI/UX pour transformer vos i
 - [**Le Prototypage**](https://docs.google.com/presentation/d/199-KGY3ryPLA6jt2H_KpScG1ImWKDJibxtThzZRi_x8)
 - [**Le Maquettage**](https://docs.google.com/presentation/d/1dXq3DRVzHbu-CPPTSsz__0eLISaots0hHrfNnRmKbR4)
 
-## Exercices
+# Exercices
 
 Un seul exercice...
 
 Créer **le Zoning**, **les Wireframes**, **le Prototypage** et **les Maquettes** de votre application en format Desktop et Mobile !
 
-## Exemples
+# Exemples
 
 ### Exemple avec Figma
 
@@ -55,7 +55,7 @@ Créer **le Zoning**, **les Wireframes**, **le Prototypage** et **les Maquettes*
 - [Listing Article](https://wireframe.cc/7uBGDu)
 - [Detail Acticle](https://wireframe.cc/X2HzJq)
 
-## Ressources
+# Ressources
 
 ### Article
 
@@ -76,7 +76,7 @@ Créer **le Zoning**, **les Wireframes**, **le Prototypage** et **les Maquettes*
 
 - [3D Interactive Animation](https://www.youtube.com/watch?v=J6DjxHXXZGw)
 
-## Résumé à retenir
+# Résumé à retenir
 
 ### **Zoning** 🚀📊
 
