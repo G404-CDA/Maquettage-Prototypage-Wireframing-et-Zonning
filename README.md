@@ -20,12 +20,10 @@ Préparez-vous à plonger au cœur de la conception UI/UX pour transformer vos i
 
 # Cours
 
+[**UX/UI**](https://docs.google.com/presentation/d/1255QV6W_4EX7wKBVC0bp-LuSERirLvaOlJ-5i-BG0Zc/edit#slide=id.g15d3f45036f_0_267)
 - [**Le Zoning**](https://docs.google.com/presentation/d/1-apouugPdIYYKWr_mLm2qb-uB402rERqtJQaDuT-QaM)
-
 - [**Le Wireframing**](https://docs.google.com/presentation/d/1N3oPsF7Q3vGmHII-g3S2ZBzkrb0xLZFED7-ntXEC7h4)
-
 - [**Le Prototypage**](https://docs.google.com/presentation/d/199-KGY3ryPLA6jt2H_KpScG1ImWKDJibxtThzZRi_x8)
-
 - [**Le Maquettage**](https://docs.google.com/presentation/d/1dXq3DRVzHbu-CPPTSsz__0eLISaots0hHrfNnRmKbR4)
 
 
@@ -38,14 +36,14 @@ Créer **le Zoning**, **les Wireframes**, **le Prototypage** et **les Maquettes*
 
 # Exemples 
 
-### Exemple avec Figma :
+### Exemple avec Figma
 
 - [User Flow](https://www.figma.com/file/jpB0iXYIKNwrnBWYIXK8rM/%5BE%26P---WAY2BE%5D-App-user-flow?type=whiteboard&t=HRJLvtdh0o1wd8Zu-0)
 - [WireFraming Figma](https://www.figma.com/file/KD81OQVPBs4OMokQz1GGHc/Wireframing-in-Figma?type=design&node-id=0-1&mode=design&t=TT1hgRVZ3S0elnCS-0)
 - [Prototypage](https://www.figma.com/file/DMA24q9RYzhu6SdVIyhwmi/Prototyping-in-Figma?type=design&node-id=0-1&mode=design&t=Q62GhtXGI2dDc72f-0)
 - [Maquette Application mobile](https://www.figma.com/file/l8sb7ZIC1sjOeYz4q1egI8/%5BE%26P---WAY2BE%5D-UX-%26-UI?type=design&node-id=121-694&mode=design&t=hgXFbyQqeuJo0U9D-0)
 
-### Autre Exemple Wireframing.cc :
+### Autre Exemple Wireframing.cc
 
 #### Ecommerce  
 
@@ -53,7 +51,7 @@ Créer **le Zoning**, **les Wireframes**, **le Prototypage** et **les Maquettes*
 - [Page panier](https://wireframe.cc/PMbqUQ) 
 - [Page confirmation](https://wireframe.cc/uPQBXU)
 
-#### Blog : 
+#### Blog 
 
 - [Listing Article](https://wireframe.cc/7uBGDu) 
 - [Detail Acticle](https://wireframe.cc/X2HzJq)
@@ -69,16 +67,16 @@ Créer **le Zoning**, **les Wireframes**, **le Prototypage** et **les Maquettes*
 - [Les bases de Figma 2023 (cours gratuit)](https://www.youtube.com/watch?v=7a0QW3zJc0A)
 - [Figma Mobile App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
 
-### Playlist Tuto Figma : 
+### Playlist Tuto Figma 
 - [Tuto Figma](https://www.youtube.com/playlist?list=PLGwYGrNV4YO-juBqy0geZemATwjH5340d)
 - [Playlist FIGMA](https://www.youtube.com/playlist?list=PLIv2VwamIhhuOZk40qIbyGIxoBBQ-voiW)
 
-### Animation figma : 
+### Animation figma 
 - [3D Interactive Animation](https://www.youtube.com/watch?v=J6DjxHXXZGw)
 
 
 
-# Résumé à retenir : 
+# Résumé à retenir 
 
 
 ### **Zoning** 🚀📊
